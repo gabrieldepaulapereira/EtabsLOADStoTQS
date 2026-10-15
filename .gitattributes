@@ -1,0 +1,15 @@
+# Arquivos lidos/gerados para o TQS: CRLF exato (os testes comparam byte a byte).
+*.csv -text
+*.txt -text
+*.xlsx binary
+*.ico binary
+*.ttf binary
+# Scripts do Windows
+*.bat text eol=crlf
+# Código e interface
+*.py text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf

@@ -1,0 +1,7 @@
+# Dependências do programa (tkinter não é mais usado).
+comtypes>=1.2
+pywebview>=5
+# Só para os testes (lê a planilha de referência da Torre C):
+# openpyxl
+# Só para gerar o .exe:
+# pyinstaller

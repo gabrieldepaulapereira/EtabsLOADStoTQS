@@ -1,0 +1,18 @@
+# Ambientes e build (o .exe é regerado com build_exe.bat)
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuração local do Claude Code / editor
+.claude/
+.idea/
+.vscode/
+
+# Saídas geradas ao rodar o programa ao lado de um modelo
+*.log
+_pier_completo_tmp/
+ETB_gerando/
+ETB_anterior_*/

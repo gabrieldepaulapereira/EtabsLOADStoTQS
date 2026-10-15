@@ -1,0 +1,31 @@
+TABLE:  Pier Forces;;;;;;;;;;
+Story;Pier;Output Case;Case Type;Location;P;V2;V3;T;M2;M3
+;;;;;tonf;tonf;tonf;tonf-m;tonf-m;tonf-m
+6;P106-1;ULS-NBR-1;Combination;Top;-388,53;194,33;4,71;0,30;-4,00;75,54
+6;P106-1;ULS-NBR-1;Combination;Bottom;-335,07;190,77;16,67;10,68;19,61;711,42
+6;P106-1;ULS-NBR-1;Combination;Top;-1966,05;63,55;2,77;-11,36;-5,69;-305,31
+6;P106-1;ULS-NBR-1;Combination;Bottom;-1959,23;64,92;-1,54;-9,94;-4,35;-190,99
+6;P106-1;ULS-NBR-2;Combination;Top;34,66;148,98;3,23;2,70;-2,10;106,30
+6;P106-1;ULS-NBR-2;Combination;Bottom;78,83;146,07;13,40;10,32;15,78;606,05
+6;P106-1;ULS-NBR-2;Combination;Top;-1542,86;18,21;1,30;-8,95;-3,78;-274,55
+6;P106-1;ULS-NBR-2;Combination;Bottom;-1545,33;20,22;-4,81;-10,30;-8,19;-296,36
+6;P106-1;ULS-NBR-3;Combination;Top;-825,60;180,08;4,89;-3,20;-5,07;2,26
+6;P106-1;ULS-NBR-3;Combination;Bottom;-780,50;177,04;14,57;6,91;17,13;574,38
+6;P106-1;ULS-NBR-3;Combination;Top;-1772,11;101,61;3,73;-10,19;-6,08;-226,25
+6;P106-1;ULS-NBR-3;Combination;Bottom;-1755,00;101,53;3,65;-5,46;2,76;32,93
+6;P106-1;ULS-NBR-4;Combination;Top;-1356,49;144,84;4,27;-7,09;-5,55;-103,01
+6;P106-1;ULS-NBR-4;Combination;Bottom;-1327,44;143,11;9,70;1,46;10,77;330,57
+2;P106-1;ULS-NBR-1;Combination;Top;-331,20;70,98;-15,77;36,68;13,42;683,77
+2;P106-1;ULS-NBR-1;Combination;Bottom;-332,42;49,47;7,57;103,25;-4,51;722,85
+2;P106-1;ULS-NBR-1;Combination;Top;-1977,00;29,52;-34,91;17,48;-11,92;-235,01
+2;P106-1;ULS-NBR-1;Combination;Bottom;-1960,79;31,21;-24,31;10,90;-39,46;-204,31
+2;P106-1;ULS-NBR-2;Combination;Top;87,02;56,54;-9,25;29,78;14,22;591,84
+2;P106-1;ULS-NBR-2;Combination;Bottom;82,58;38,62;7,59;84,83;0,96;623,15
+2;P106-1;ULS-NBR-2;Combination;Top;-1558,79;15,07;-28,39;10,58;-11,13;-326,94
+2;P106-1;ULS-NBR-2;Combination;Bottom;-1545,79;20,36;-24,30;-7,52;-33,99;-304,02
+2;P106-1;ULS-NBR-3;Combination;Top;-784,22;62,82;-18,59;31,68;6,94;538,97
+2;P106-1;ULS-NBR-3;Combination;Bottom;-780,45;44,88;4,52;87,74;-10,37;573,30
+2;P106-1;ULS-NBR-3;Combination;Top;-1771,71;37,94;-30,07;20,15;-8,27;-12,30
+2;P106-1;ULS-NBR-3;Combination;Bottom;-1757,47;33,92;-14,61;32,33;-31,33;17,00
+2;P106-1;ULS-NBR-4;Combination;Top;-1338,35;51,46;-24,35;25,70;0,21;291,19
+2;P106-1;ULS-NBR-4;Combination;Bottom;-1328,65;39,65;-3,43;62,68;-19,22;322,72
